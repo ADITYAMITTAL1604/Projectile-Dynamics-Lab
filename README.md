@@ -12,7 +12,7 @@ A physics simulation tool demonstrating projectile motion with and without air r
 ## 🛠️ Installation
 ```bash
 git clone https://github.com/ADITYAMITTAL1604/Projectile-Dynamics-Lab.git
-cd projectile-simulator
+cd PROJECTILE_SIMULATOR
 pip install -r requirements.txt
 
 
@@ -22,3 +22,4 @@ pip install -r requirements.txt
 - **Moon Image**: NASA Lunar Reconnaissance Orbiter Camera
 
 All images are in the public domain and used for educational purposes.
+
